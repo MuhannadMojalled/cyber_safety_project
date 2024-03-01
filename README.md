@@ -31,45 +31,45 @@ The only required setup is to have a folder called ‘pdfs’ in the same folder
 
 When the users start the program they will be greeted with the main tab, the URL tab. In this tab the user can type the URL to be scanned.
 
-![alt text](images/image.png)
+![alt text](Images/image.png)
 
 The second tab is the QR tab, in this tab the user can select an image to scan the QR code in it and extract the URL and then scan it.
 
-![alt text](images/image-1.png)
+![alt text](Images/image-1.png)
 
 The third tab is the chat tab, in this tab the user can use the chatbot to ask any questions about the polices and guidelines of the cyber security center.
 
-![alt text](images/image-2.png)
+![alt text](Images/image-2.png)
 
 # Functionality and features
 
 In the URL and QR tab, the user can scan a URL and all of its redirects. then the user can press the button to scan all of the links in the page. The results will be displayed in the results tab.
 
-![alt text](images/image-3.png)
+![alt text](Images/image-3.png)
 
 The URL and QR tab has four additional tabs, redirects, details, links and screenshot. The redirects tab will display all of the redirects and the results of scanning them.
 
-![alt text](images/image-4.png)
+![alt text](Images/image-4.png)
 
 In the details tab, the user can view all of the 90 websites of the virus total scan.
 
-![alt text](images/image-5.png)
+![alt text](Images/image-5.png)
 
 In the links tab the user can view all of the links in the page.
 
-![alt text](images/image-6.png)
+![alt text](Images/image-6.png)
 
 If the user selected to scan all of the links in the page, the results well be displayed in the links tab.
 
-![alt text](images/image-7.png)
+![alt text](Images/image-7.png)
 
 In the Screenshot tab, the screen shot will be displayed with the button to open the screenshot externally.
 
-![alt text](images/image-8.png)
+![alt text](Images/image-8.png)
 
 In the Chat tab, the users can ask the chatbot questions and gets answers.
 
-![alt text](images/image-9.png)
+![alt text](Images/image-9.png)
 
 # Possible Errors
 
@@ -79,8 +79,8 @@ NOTE: the program will always take a couple of minutes to start, this NOT a prob
 
 - in the Chat tab the send button will not appear if the pdfs folder was not found, to fix this problem make sure the pdfs folder exists and is in the same folder as the program. And make sure it has the pdf files to read.
 
-![alt text](images/image-10.png)
+![alt text](Images/image-10.png)
 
 - Another error is when there is no internet connection or the urlscan.io and virus total websites are blocked, to fix this problem try connecting to another internet network e.g., Use your mobile hotspot.
 
-![alt text](images/image-11.png)
+![alt text](Images/image-11.png)
